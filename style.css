@@ -5,6 +5,7 @@
 }
 body{
   background-color: white;
+over-flow-x:hide;
 }
 @media only screen and (max-width: 767px) {
   body {
